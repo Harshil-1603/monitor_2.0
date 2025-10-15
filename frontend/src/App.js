@@ -16,6 +16,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Stock Monitor</h1>
+
+
         <div>
           <h2>Current Stocks</h2>
           {stocks.length > 0 ? (
